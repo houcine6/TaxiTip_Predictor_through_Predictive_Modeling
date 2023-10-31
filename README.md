@@ -27,7 +27,7 @@ We employed Random Forest and XGB models for this analysis. The Random Forest mo
 
 Additionally, the feature importances highlighted the factors that had the most substantial impact on tipping behavior.
 
-![](feature%20importances.png).
+![](scores.PNG).
 
 ## Conclusion
 Both the Random Forest and XGB models effectively served the purpose of identifying crucial factors that influence a client's decision to leave a tip. These findings offer valuable insights for taxi companies, enabling them to focus their efforts on enhancing the factors that increase the likelihood of a client leaving a gratuity. By understanding these tipping patterns, taxi drivers and companies can optimize their services, improve customer satisfaction, and ultimately enhance their earnings, addressing the economic challenges faced by drivers in the industry.
